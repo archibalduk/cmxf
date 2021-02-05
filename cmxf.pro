@@ -144,3 +144,13 @@ HEADERS  += mainwindow.h \
     data_types/player_squad_number.h
 
 FORMS    += mainwindow.ui
+
+DISTFILES += \
+    cmxf.rc \
+    delimiter_repair.txt \
+    import_template.csv \
+    readme.html \
+    vlookup_clubs.csv \
+    vlookup_clubs_prefix_suffix.csv \
+    vlookup_nations.csv \
+    vlookup_protected_players.csv
